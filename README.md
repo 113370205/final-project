@@ -105,11 +105,10 @@ final-project/
 ---
 
 ## Project Repository
-
-(Your GitHub Repository Link)
+https://github.com/113370205/final-project/tree/main
 
 ---
 
 ## Presentation Video
 
-(Your YouTube Link)
+https://youtu.be/hBc1OGwUkzQ
